@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!# 💫 About Me:
+
+
 🏗️ I’m currently working on: Building websites and digital solutions for local businesses.<br>👥 I’m looking to collaborate on: Creative web projects, local businesses, and interesting digital ideas.<br>🤝 I’m looking for help with: Business, sales, marketing, and turning web development into a real business.<br>🌱 I’m currently learning: Modern web development, automation, AI tools, and business.<br>💬 Ask me about: Web development, UI/UX, websites, and turning ideas into reality.<br>⚡ Fun fact: I can spend hours tweaking a website until one tiny detail finally feels right. 😭
 
 
